@@ -1,0 +1,1 @@
+# openapi-reusable-components-test
